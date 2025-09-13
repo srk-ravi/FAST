@@ -14,5 +14,5 @@ An advanced R package for automated subject classification that combines the the
 - **Chemistry Domain**: 57.7% confidence, 100% classification rate  
 - **Cross-Framework Integration**: Successful validation and complementary analysis
 
-##  Installation
+
 
